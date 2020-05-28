@@ -25,7 +25,7 @@ public class pdfGeneratorAppController {
 	{
 		GeneratePDFApp.generatePDF();
 		
-		return "pdf generated!! success";
+		return "pdf generated!! success.";
 	}
 
 }
