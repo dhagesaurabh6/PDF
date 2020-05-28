@@ -23,7 +23,7 @@ public class generatePDFApp {
 	public void generatePDF() throws IOException{
 
 		
-        String fileName = "PdfWithtext.pdf"; 
+        String fileName = "invoice.pdf"; 
         
         PDDocument doc = new PDDocument();
         PDPage page = new PDPage();
